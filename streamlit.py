@@ -1,6 +1,6 @@
 import streamlit as st
-import folium
 from streamlit_folium import folium_static
+import folium
 import pandas as pd
 st.title('ラーメン記録簿')
 st.write('食べたラーメンを記録しておくアプリです。')
